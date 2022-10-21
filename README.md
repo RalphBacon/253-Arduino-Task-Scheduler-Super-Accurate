@@ -4,6 +4,10 @@ Finally a task scheduler that is super accurate - good enough for a clock!
 [thumbnail]  
 [video reference]  
 [sponsor]  
+  
+[![JLCPCB-Purple](https://user-images.githubusercontent.com/20911308/159024530-3e083ca1-fea4-4ba9-97d3-a3af3fb979d2.png)](https://www.jlcpcb.com/cem)  
+
+[![PCB Way One Stop Shop](https://user-images.githubusercontent.com/20911308/197213913-10dc32a6-0113-4d9b-9a8d-ea8fa198e550.gif)](https://pcbway.com)  
 
 During the course of playing about with 7-segment animation, I stumbled across a very well-written **Task Scheduler** for the **Arduiino, STM32, ESP32** and others too.
 
