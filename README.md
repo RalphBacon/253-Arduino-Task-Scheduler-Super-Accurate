@@ -13,20 +13,41 @@ Anyone who has ever tried to make an accurate loop in the Arduino environment wi
 
 ### SOFTWARE
 So [Anatoli Arkhipenko's Task Scheduler](https://github.com/arkhipenko/TaskScheduler) is a great find, and has lots of options, not to mention examples. It's worth taking the time to read the documentation to get a better grasp of the potential of this library; not least the option to ensure that a task is effectively guaranteed to fire the correct number of times in a given time period.
-
+<br>
+<br>
 **arkhipenko/TaskScheduler**: Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers  
-https://github.com/arkhipenko/TaskScheduler 
-
+https://github.com/arkhipenko/TaskScheduler  
+<br>
+<br>
+![227 Thumbnail (Custom)](https://user-images.githubusercontent.com/20911308/197219189-70823ace-552d-4963-949f-cff150d63f6c.jpg)  
 **Using printf in an Arduino environment:**  
 https://youtu.be/lhwk5vJ1iMA  
-
+<br>
+<br>
+*![Thumbnail (Custom)](https://user-images.githubusercontent.com/20911308/197218755-4e2f4c69-be3f-4e91-a20c-5ecca42a272b.jpg)  
 **FreeRTOS on an Arduino? No way! Yes way!**  
 https://youtu.be/s57Xr5LsN60  
 
 ### HARDWARE
-![image](https://user-images.githubusercontent.com/20911308/197213109-80e960f4-d2d0-4ad8-9e12-d8d1d600e6a9.png)  
+![Two Digit 7-Segment (Custom)](https://user-images.githubusercontent.com/20911308/197219827-fa2266f3-7302-42ce-925e-56175efdf99d.png)  
 The four-digit 74HC595-controlled device (two 2-digit devices cascaded [soldered] together) can be found here:  
 https://s.click.aliexpress.com/e/_DEt25OF  
 _They don't make a great clock because the gap between the two sets of two digits is too big, but you could always put a couple of 1.8mm flashing LEDs in there, controlled by another task to ensure they flash accurately every second (just like in the demo sketch). But other ones are available that lend themselves better into making into a clock format._  
 
+### LINKS
+► Clickable list of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon  
+
+► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey  
+
+My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+• https://www.youtube.com/RalphBacon  
+• https://ralphbacon.blog  
+• https://github.com/RalphBacon  
+• https://buymeacoffee.com/ralphbacon  
+\------------------------------------------------------------------
+
+My ABOUT page with email address: https://www.youtube.com/c/RalphBacon/about
 
