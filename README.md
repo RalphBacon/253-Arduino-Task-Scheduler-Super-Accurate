@@ -14,7 +14,7 @@ Anyone who has ever tried to make an accurate loop in the Arduino environment wi
 ### SOFTWARE
 So [Anatoli Arkhipenko's Task Scheduler](https://github.com/arkhipenko/TaskScheduler) is a great find, and has lots of options, not to mention examples. It's worth taking the time to read the documentation to get a better grasp of the potential of this library; not least the option to ensure that a task is effectively guaranteed to fire the correct number of times in a given time period.
 <br>
-<br>
+![Task Scheduler Library Screenshot (Custom)](https://user-images.githubusercontent.com/20911308/197220810-609ad936-ce50-4652-948c-1b4f6491e276.png)  
 **arkhipenko/TaskScheduler**: Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers  
 https://github.com/arkhipenko/TaskScheduler  
 <br>
