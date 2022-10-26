@@ -3,12 +3,12 @@ Finally a task scheduler that is super accurate - good enough for a clock!
 
 ![Thumbnail-00006 (Phone)](https://user-images.githubusercontent.com/20911308/197991675-73f59f28-8e3e-48bf-9134-583157227d7f.png)  
 
-[video reference]  
+# Video #253: https://youtu.be/eoJUlH_rWOE
 [![PCBWay One Stop Shopy](https://user-images.githubusercontent.com/20911308/197213913-10dc32a6-0113-4d9b-9a8d-ea8fa198e550.gif "PCBWay One Stop Prototyping Shop")](https://pcbway.com/)  
 
-During the course of playing about with 7-segment animation, I stumbled across a very well-written **Task Scheduler** for the **Arduiino, STM32, ESP32** and others too.
+During the course of playing about with 7-segment animation, I stumbled across a very well-written **Task Scheduler** for the **Arduiino, STM32, ESP32** and others too, from Anatoli Arkhipenko.
 
-I used it just to display a "clock" on the 4-digit, 7-segment display I was using for the animation - and was amazed to find that it was still accurately displaying the correct time the next day.
+I used it just to display a "clock" on the 4-digit, 7-segment display I was using for the animation - and was amazed to find that it was still accurately displaying the correct time the next day. No RTC. No access to the Internet. But still accurate. Unheard of!  
 
 Anyone who has ever tried to make an accurate loop in the Arduino environment will know that "drift" is normally unavoidable. That is, the time taken to execute the loop or function has an adverse effect on the timing accuracy of the loop, especially if the loop's code does not always execute the same code. Not any more!  
 
