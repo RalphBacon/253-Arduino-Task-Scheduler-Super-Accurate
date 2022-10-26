@@ -1,7 +1,8 @@
 # Video #253 Arduino Task Scheduler (Super-Accurate!)
 Finally a task scheduler that is super accurate - good enough for a clock!
 
-[thumbnail]  
+![Thumbnail-00006 (Phone)](https://user-images.githubusercontent.com/20911308/197991675-73f59f28-8e3e-48bf-9134-583157227d7f.png)  
+
 [video reference]  
 [![PCBWay One Stop Shopy](https://user-images.githubusercontent.com/20911308/197213913-10dc32a6-0113-4d9b-9a8d-ea8fa198e550.gif "PCBWay One Stop Prototyping Shop")](https://pcbway.com/)  
 
